@@ -1,0 +1,23 @@
+{
+  "name": "douban-trailer-mooc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+    "type":"git",
+    "url":"git@github.com:snailuncle/koa2Study.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "Scott",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.1"
+  }
+}
